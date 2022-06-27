@@ -1,4 +1,4 @@
-## [🧐Visit My Blog Page](https://nftb.herokuapp.com/)
+## [🧐Click Here](https://nftb.herokuapp.com/)
 
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
