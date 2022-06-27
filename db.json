@@ -1,0 +1,14 @@
+{
+    "products": [
+      { "id": 1, "title": "NFT 1", "price": 10, "currency":"BNB", "image":"https://robohash.org/10","type":"image" , "date":"2022-05-26T17:18:05.494Z"},
+      { "id": 2, "title": "NFT 2", "price": 20, "currency":"BNB", "image":"https://robohash.org/11","type":"image","date":"2022-03-26T17:18:05.494Z" },
+      { "id": 3, "title": "NFT 3", "price": 30, "currency":"BNB", "image":"https://robohash.org/12","type":"image","date":"2022-04-26T17:18:05.494Z" },
+      { "id": 4, "title": "NFT 4", "price": 40, "currency":"BNB", "image":"https://robohash.org/13","type":"image","date":"2022-12-26T17:18:05.494Z" },
+      { "id": 5, "title": "NFT 5", "price": 50, "currency":"BNB", "image":"https://robohash.org/14","type":"video","date":"2022-08-26T17:18:05.494Z" },
+      { "id": 6, "title": "NFT 6", "price": 60, "currency":"BNB", "image":"https://robohash.org/15","type":"image","date":"2022-01-26T17:18:05.494Z" },
+      { "id": 7, "title": "NFT 7", "price": 70, "currency":"BNB", "image":"https://robohash.org/16","type":"image","date":"2022-11-26T17:18:05.494Z" },
+      { "id": 8, "title": "NFT 8", "price": 80, "currency":"BNB", "image":"https://robohash.org/17","type":"video","date":"2022-07-26T17:18:05.494Z" },
+      { "id": 9, "title": "NFT 9", "price": 90, "currency":"BNB", "image":"https://robohash.org/18","type":"image","date":"2022-06-29T17:18:05.494Z" },
+      { "id": 10, "title": "NFT 10", "price": 100, "currency":"BNB", "image":"https://robohash.org/19","type":"image","date":"2022-06-23T17:18:05.494Z" }
+    ]
+  }
