@@ -93,7 +93,7 @@ function App() {
                       <h5 className="card-text m-auto align-items-start justify-content-center" style={{ color: "burlywood" }}>{item.type}</h5><br />
                       <h5 className="card-text m-auto align-items-start justify-content-center" style={{ color: "khaki" }}>{item.price}$</h5><br />
                       <h5 className="card-text m-auto align-items-start justify-content-center" style={{ color: "crimson" }}>{item.currency}</h5><br />
-                      <a href="#!" className="btn btn-primary m-auto align-items-start justify-content-center " >Buy</a>
+                      <a href=" " className="btn btn-primary m-auto align-items-start justify-content-center " >Buy</a>
                     </div>
                   </div>
                 </MDBCardBody>
